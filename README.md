@@ -1,6 +1,6 @@
 # eHacking_LABS
 
-Laboratorios para las formaciones de Ethical Hacking está en la URL https://github.com/antsala/eHacking_LABS.git
+Laboratorios para las formaciones de Ethical Hacking está en la URL https://github.com/ebantula/eHacking_LABS.git
 
 
 ## Carpeta 00. Despliegue del laboratorio.
