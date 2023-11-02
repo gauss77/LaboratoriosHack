@@ -1,21 +1,17 @@
 # Realizar Footprinting usando motores de búsqueda
 
-Requisitos:
-1. Máquina ***Router-Ubu***.
-2. Máquina ***Kali Linux***.
-
 ## Ejercicio 1: Google Hacking
 
 El primer paso en la etapa de búsqueda de información o reconocimiento es obtener toda la cantidad de esta que se pueda. En este ejercicio aprenderemos a utilizar técnicas avanzadas de búsqueda por medio de Google, que se suele conocer por el nombre de ***Google Dorks***.
 
 Iniciamos sesión en la máquina Kali con el usuario
 ```
-antonio
+kali
 ```
 
 y el password
 ```
-Pa55w.rd
+kali
 ```
 
 Con el navegador, conectar a Google
@@ -51,7 +47,7 @@ En este caso usamos el buscador de la forma habitual pero reducimos los tipos de
 
 ![Búsqueda de archivos pdf](../img/lab-02-A/202208261226.png)
 
-(NOTA: Prueba a usar ***filetype*** junto con ***inline***, y busca otros tipos de archivos más comprometedores como ***dbf***, ***csv***, ***xml***, ***docx***, etc.)
+(NOTA: Prueba a usar ***filetype*** junto con ***online***, y busca otros tipos de archivos más comprometedores como ***dbf***, ***csv***, ***xml***, ***docx***, etc.)
 
 Los modificadores de búsqueda son muy variopintos. En este link: https://antoniogonzalezm.es/google-hacking-46-ejemplos-hacker-contrasenas-usando-google-enemigo-peor/ tienes un montón de ejemplos para que conozcas la potencia de la OSINT usando Google.
 
